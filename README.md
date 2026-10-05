@@ -3,7 +3,7 @@ Crowdfunding Platform
 I've added a comprehensive hashtag system to the crowdfunding platform with these features:
 New Hashtag Features:
 1. Visual Hashtag Design
-Pink/rose gradient colors (#ec4899 to #f472b6) for all hashtag elements
+Pink/rose gradient colors (#ec4899 to #f472b6) for all hashtag elements 
 Animated tag pop-in effects 
 Hover states with elevation and glow effects
 Fire emoji (🔥) indicators for trending tags
