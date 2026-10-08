@@ -10,7 +10,7 @@ Fire emoji (🔥) indicators for trending tags
 2. Campaign Creation with Hashtags    
 New dedicated "Hashtags" tab in the creation flow
 Input field with Enter key support
-Maximum 5 hashtags per campaign limit 
+Maximum 5 hashtags per campaign limit  
 Suggested hashtags based on popularity
 Selected hashtags display with remove buttons
 Visual validation and error handling
