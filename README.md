@@ -6,7 +6,7 @@ New Hashtag Features:
 Pink/rose gradient colors (#ec4899 to #f472b6) for all hashtag elements 
 Animated tag pop-in effects 
 Hover states with elevation and glow effects
-Fire emoji (🔥) indicators for trending tags
+Fire emoji (🔥) indicators for trending tags 
 2. Campaign Creation with Hashtags    
 New dedicated "Hashtags" tab in the creation flow
 Input field with Enter key support
